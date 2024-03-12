@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi this is Parisima 
 
 <!--
 **parisimaa/parisimaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🎓 Soon, I will graduate with a Master's degree in Electrical and Computer Engineering from New York University!
+🧠 I'm deeply passionate about learning various Machine Learning and Deep Learning techniques. My work has predominantly focused on Image Processing, Computer Vision, and Deep Learning, particularly within the Generative domain.
+🚀 My hobbies include camping 🏕️, working out 💪, hiking 🌄, painting 🎨, horse riding 🐎, dancing 💃, among others!
+🤝 I am always open to collaboration within teams, so please feel free to reach out!
+🔁 I will be regularly updating this space! (Note: Some repositories are still private.) Check back often for more updates!
