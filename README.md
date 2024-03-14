@@ -52,4 +52,4 @@ Here are some ideas to get you started:
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 
 
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ips42ay3jfoivwvjus4hq2cjm4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
