@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 
-### What was playing on my Spotify!
+### What is playing on my Spotify!
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ips42ay3jfoivwvjus4hq2cjm4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31ips42ay3jfoivwvjus4hq2cjm4&redirect=true)
 
 
