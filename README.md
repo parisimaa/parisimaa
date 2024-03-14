@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 * 🎓 Soon, I will graduate with a **Master's degree** in **Electrical and Computer Engineering** from **New York University**!
 * 🧠 I'm deeply passionate about learning various Machine Learning and Deep Learning techniques. My work has predominantly focused on Image Processing, Computer Vision, and Deep Learning, particularly within the Inverse Problems and Generative domains.
-* 🚀 My hobbies include camping 🏕️, working out 💪, hiking 🌄, painting 🎨, horse riding 🐎, dancing 💃, among others!
+* 🚀 My hobbies include camping 🏕️, working out 💪, hiking 🌄, painting 🎨, dancing 💃, among others!
 * 🤝 I am always open to collaboration within teams, so please feel free to reach out! parisima.abdali@nyu.edu
 * 🔁 I will be regularly updating this space! (Note: Some repositories are still private.) **Check back often for more updates**!
 
